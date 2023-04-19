@@ -223,11 +223,11 @@ public class PlataformaBicicletas {
                     }
 
                 } else {
-                    System.out.println("No hay disponibilidad de bicicletas en este parqueo.");
+                    System.out.println("Valor inválido.");
                 }
             }
         } else {
-            System.out.println("Valor inválido.");
+            System.out.println("No hay disponibilidad de bicicletas en este parqueo.");
         }
     }
 
@@ -360,11 +360,11 @@ public class PlataformaBicicletas {
                     }
 
                 } else {
-                    System.out.println("No hay disponibilidad de bicicletas en este parqueo.");
+                    System.out.println("Valor inválido.");
                 }
             }
         } else {
-            System.out.println("Valor inválido.");
+            System.out.println("No hay disponibilidad de bicicletas en este parqueo.");
         }
     }
 
@@ -492,11 +492,11 @@ public class PlataformaBicicletas {
                         }
                     }
                 } else {
-                    System.out.println("No hay disponibilidad de bicicletas en este parqueo.");
+                    System.out.println("Valor inválido.");
                 }
             }
         } else {
-            System.out.println("Valor inválido.");
+            System.out.println("No hay disponibilidad de bicicletas en este parqueo.");
         }
     }
 
